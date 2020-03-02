@@ -1,5 +1,5 @@
 # TDD React
-Base code from Caleb Pollman at https://github.com/calebpollman/react-calculator
+Base code from Caleb Pollman at https://github.com/calebpollman/react-calculator  
 A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
 
 ## Local Setup
